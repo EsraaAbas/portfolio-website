@@ -1,0 +1,32 @@
+.about{
+    width: 99%;
+    display: flex;
+    padding: 3%;
+}
+.aside{
+    width: 25%;
+    
+}
+.h1{
+    font-size: 17px;
+    color: rgb(68, 67, 67);
+    font-weight: 700;
+    text-shadow:2px 2px 2px  gray;
+}
+.right_side{
+    width: 70%;
+}
+.p{
+    font-size: 7px;
+    color: rgb(122, 118, 118);
+}
+.buttom_download{
+    font-size: 9px;
+    color:white;
+    background-color:  rgb(68, 67, 67);
+    width: 30%;
+    height: 30%;
+    border: none;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}

@@ -1,0 +1,36 @@
+img {
+    width: 100%;
+    height: 200px;
+
+}
+
+.header-content {
+    position: absolute;
+    top: 50px;
+    left: 6%;
+    justify-items: center;
+    line-height: 3px;
+}
+
+.name {
+    font-size: 15px;
+    color: #f4f4f4;
+    font-weight: 1000;
+
+}
+
+.job {
+    font-size: 10px;
+    color: #f4f4f4;
+    font-weight: 1;
+}
+
+.contact_b {
+    font-size: 7px;
+    color: #f4f4f4;
+
+    background-color: transparent;
+    width: 70px;
+    height: 20px;
+    border: 1px solid white;
+}
